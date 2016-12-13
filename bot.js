@@ -226,9 +226,5 @@ function getRandomInt(min, max) {
 
 exports.respond = respond;
 
-else if(request.text && botRegexsdl = /^\/hoe/;.test(request.text)) {
-this.res.writeHead(200);
-postMessage("http://www.ruralking.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/0/0/005071649.jpg");
-this.res.end();
 }
 
